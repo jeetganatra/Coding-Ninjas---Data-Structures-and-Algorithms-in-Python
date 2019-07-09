@@ -6,30 +6,28 @@ This repository includes all the practice problems and assignments which I've so
 Topics discussed are:
 1) Recursion - 1
 2) Recursion - 2
-3) Recursion - 2
-4) Recusrion Assignment
-5) OOPS - 1
-6) OOPS - 2
-7) OOPS - 3
-8) Time Complexity Analysis
-9) Space Complexity Analysis
-10) Time Complexity Improvement
-11) Linked List - 1
-12) Linked List - 2
-13) Stacks
-14) Queues
-15) Binary Trees - 1
-16) Binary Trees - 2
-17) BST - 1
-18) BST - 2
-19) Generic Trees
-20) Dictionaries/Maps
-21) Graphs - 1
-22) Graphs - 2
-23) Pririty Queues - 1
-24) Pririty Queues - 2
-25) Huffman Coding
-26) Dynamic Programming
+3) OOPS - 1
+4) OOPS - 2
+5) OOPS - 3
+6) Time Complexity Analysis
+7) Space Complexity Analysis
+8) Time Complexity Improvement
+9) Linked List - 1
+10) Linked List - 2
+11) Stacks
+12) Queues
+13) Binary Trees - 1
+14) Binary Trees - 2
+15) BST - 1
+16) BST - 2
+17) Generic Trees
+18) Dictionaries/Maps
+19) Graphs - 1
+20) Graphs - 2
+21) Pririty Queues - 1
+22) Pririty Queues - 2
+23) Huffman Coding
+24) Dynamic Programming
 
 
 
