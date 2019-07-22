@@ -31,10 +31,11 @@ Topics discussed are:
 
 
 
-Download Jupyter notebook from here: https://jupyter.org/
-Installing Jupyter notebook: https://jupyter.org/install
+__Download Jupyter notebook from here:__ https://jupyter.org/
+__Installing Jupyter notebook:__ https://jupyter.org/install
+
 If you're not comfortable with Jupyter notebooks then you can use Repl.it (Online Editor): https://repl.it/languages/python3
 
 
 
-P.S: Refer serial wise to avoid confusion and non-understanding of topics
+__P.S:__ Refer serial wise to avoid confusion and non-understanding of topics
