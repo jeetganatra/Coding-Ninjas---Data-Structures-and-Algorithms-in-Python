@@ -30,6 +30,9 @@ Topics discussed are:
 24) Dynamic Programming
 
 
+
+Download Jupyter notebook from here: https://jupyter.org/
+Installing Jupyter notebook: https://jupyter.org/install
 If you're not comfortable with Jupyter notebooks then you can use Repl.it (Online Editor): https://repl.it/languages/python3
 
 
