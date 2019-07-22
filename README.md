@@ -30,5 +30,8 @@ Topics discussed are:
 24) Dynamic Programming
 
 
+If you're not comfortable with Jupyter notebooks then you can use Repl.it (Online Editor): https://repl.it/languages/python3
+
+
 
 P.S: Refer serial wise to avoid confusion and non-understanding of topics
