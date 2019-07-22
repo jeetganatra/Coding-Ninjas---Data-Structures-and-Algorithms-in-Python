@@ -31,11 +31,9 @@ Topics discussed are:
 
 
 
-__Download Jupyter notebook from here:__ https://jupyter.org/
-__Installing Jupyter notebook:__ https://jupyter.org/install
-
-If you're not comfortable with Jupyter notebooks then you can use Repl.it (Online Editor): https://repl.it/languages/python3
-
+__Download Jupyter notebook from here:__ https://jupyter.org/ &nbsp
+__Installing Jupyter notebook:__ https://jupyter.org/install &nbsp
+If you're not comfortable with Jupyter notebooks then you can use __Repl.it (Online Editor):__ https://repl.it/languages/python3
 
 
 __P.S:__ Refer serial wise to avoid confusion and non-understanding of topics
