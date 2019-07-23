@@ -1,4 +1,4 @@
-# Coding-Ninjas---Data-Structures-and-Algorithms-in-Python
+# Coding-Ninjas---Data-Structures-and-Algorithms-using-Python
 Solved problems and assignments of DSA course taught by Coding Ninjas team
 
 This repository includes all the practice problems and assignments which I've solved during the Data Structures and Algorithms course in Python Programming taught by Coding Ninjas team.
