@@ -36,7 +36,7 @@ __Installing Jupyter notebook:__ https://jupyter.org/install
 If you're not comfortable with Jupyter notebooks then you can use __Repl.it (Online Editor):__ https://repl.it/languages/python3
 
 
-__Note:__ Refer serial wise to avoid confusion and non-understanding of topics
+__Note:__ Refer serial wise to avoid confusion and non-understanding of topics.
 
 
 
