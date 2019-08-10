@@ -42,6 +42,6 @@ __Note:__ Refer serial wise to avoid confusion and non-understanding of topics
 
 
 
-Register the course with the following referral link to get a discount of ₹1,000/-
+Register the course with the following referral link to get a discount of ₹1,000/-   
 Referral Link: https://codingninjas.in/app/invite/THMPN  
 **Note: Don't forget to sign up with a new ID to avail discount**
