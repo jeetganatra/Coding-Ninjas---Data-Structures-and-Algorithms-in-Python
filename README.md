@@ -27,8 +27,8 @@ Topics discussed are:
 21) Priority Queues - 1
 22) Huffman Coding
 23) Priority Queues - 2
-23) Huffman Coding
-24) Dynamic Programming
+24) Dynamic Programming - 1
+25) Recursion 3
 
 
 
