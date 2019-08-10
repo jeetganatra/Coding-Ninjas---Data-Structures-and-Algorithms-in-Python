@@ -24,8 +24,9 @@ Topics discussed are:
 18) Dictionaries/Maps
 19) Graphs - 1
 20) Graphs - 2
-21) Pririty Queues - 1
-22) Pririty Queues - 2
+21) Priority Queues - 1
+22) Huffman Coding
+23) Priority Queues - 2
 23) Huffman Coding
 24) Dynamic Programming
 
