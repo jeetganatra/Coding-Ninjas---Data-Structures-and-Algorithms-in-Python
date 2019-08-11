@@ -34,6 +34,7 @@ Topics discussed are:
 
 
 
+
 __Download Jupyter notebook from here:__ https://jupyter.org/  
 __Installing Jupyter notebook:__ https://jupyter.org/install  
 If you're not comfortable with Jupyter notebooks then you can use __Repl.it (Online Editor):__ https://repl.it/languages/python3
