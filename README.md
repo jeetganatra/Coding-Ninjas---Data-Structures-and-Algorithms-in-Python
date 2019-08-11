@@ -29,7 +29,7 @@ Topics discussed are:
 23) Priority Queues - 2
 24) Dynamic Programming - 1
 25) Recursion - 3
-26) Dynamic Programming - 2
+26) Dynamic Programming - 2 27) Backtracking
 
 
 
