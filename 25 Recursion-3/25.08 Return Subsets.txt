@@ -1,0 +1,17 @@
+# This solution is more optimised and easily understandable. Please have a look and merge
+def subset(arr):
+  n = len(arr)
+  if n <= 0:
+    output = [ [] ]
+    return output
+
+  output = subset(arr[:n-1])
+  outputLen = len(output)
+  for i in range(outputLen):
+    output.append(output[i].copy())
+    output[outputLen + i].append(arr[n-1])
+
+  return output
+
+for j in subset([1,2,3,4]):
+  print(j)
