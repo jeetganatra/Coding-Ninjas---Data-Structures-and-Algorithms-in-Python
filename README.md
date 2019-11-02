@@ -42,7 +42,7 @@ If you're not comfortable with Jupyter notebooks then you can use __Repl.it (Onl
 
 __Note:__ Refer serial wise to avoid confusion and non-understanding of topics.
 
-
+After this course completion, I recommend to have a look on these MIT lectures to get in depth knowledge of data structures and algorithms: https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
 
 
 
